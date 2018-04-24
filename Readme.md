@@ -9,6 +9,8 @@ Syntax color table: [solarized_dark_syntax.html](http://www.pazera-software.com/
 
 ![CudaText - Solarized Dark theme](http://www.pazera-software.com/cudatext/themes/solarized_dark.png)
 
+![Screenshot2](http://www.pazera-software.com/cudatext/CudaText_SolarizedDark.png)
+
 
 # How to install a theme?
 Download **ZIP** file, run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Color themes -> UI -> THEME_NAME`.
