@@ -362,7 +362,7 @@
   "Lex_TextBold" : {
     "Type" : 1,
     "Styles" : "b",
-    "CFont" : "#F8F8F2",
+    "CFont" : "#C9C99C",
     "CBack" : "",
     "CBorder" : "",
     "Border" : "0,0,0,0"
@@ -370,7 +370,7 @@
   "Lex_TextItalic" : {
     "Type" : 1,
     "Styles" : "i",
-    "CFont" : "#F8F8F2",
+    "CFont" : "#C9C99C",
     "CBack" : "",
     "CBorder" : "",
     "Border" : "0,0,0,0"
@@ -378,7 +378,7 @@
   "Lex_TextBoldItalic" : {
     "Type" : 1,
     "Styles" : "bi",
-    "CFont" : "#F8F8F2",
+    "CFont" : "#C9C99C",
     "CBack" : "",
     "CBorder" : "",
     "Border" : "0,0,0,0"
@@ -386,7 +386,7 @@
   "Lex_TextCross" : {
     "Type" : 1,
     "Styles" : "s",
-    "CFont" : "#F8F8F2",
+    "CFont" : "#C9C99C",
     "CBack" : "",
     "CBorder" : "",
     "Border" : "0,0,0,0"

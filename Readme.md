@@ -14,3 +14,9 @@ Syntax color table: [solarized_dark_syntax.html](http://www.pazera-software.com/
 
 # How to install a theme?
 Download **ZIP** file, run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Color themes -> UI -> THEME_NAME`.
+
+# Changelog
+
+* 28.04.2019  
+New UI items: `EdMinimapTooltipBg`, `EdMinimapTooltipBorder`, `EdBlockStapleActive`, `TreeSelBg2`. Removed `TreeLines`.
+Changed syntax items: `Lex_TextBold`, `Lex_TextItalic`, `Lex_TextBoldItalic`, `Lex_TextCross`.
