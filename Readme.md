@@ -4,12 +4,12 @@ Solarized Dark theme for the [CudaText](https://github.com/Alexey-T/CudaText) ed
 
 Based on information available at http://ethanschoonover.com/solarized , https://github.com/altercation/solarized and Solarized Dark theme for Visual Studio Code and Atom.
 
-UI color table: [solarized_dark_ui.html](http://www.pazera-software.com/cudatext/themes/solarized_dark_ui.html)  
-Syntax color table: [solarized_dark_syntax.html](http://www.pazera-software.com/cudatext/themes/solarized_dark_syntax.html)
+UI color table: [solarized_dark_ui.html](https://www.pazera-software.com/files/cudatext/solarized_dark_ui.html)  
+Syntax color table: [solarized_dark_syntax.html](https://www.pazera-software.com/files/cudatext/solarized_dark_syntax.html)
 
-![CudaText - Solarized Dark theme](http://www.pazera-software.com/cudatext/themes/solarized_dark.png)
+![CudaText - Solarized Dark theme](https://www.pazera-software.com/img/cudatext/solarized_dark.png)
 
-![Screenshot2](http://www.pazera-software.com/cudatext/CudaText_SolarizedDark.png)
+![Screenshot2](http://www.pazera-software.com/img/cudatext/CudaText_SolarizedDark.png)
 
 
 # How to install a theme?
