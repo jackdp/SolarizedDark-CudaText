@@ -13,7 +13,7 @@ Syntax color table: [solarized_dark_syntax.html](https://www.pazera-software.com
 
 
 # How to install a theme?
-Download **ZIP** file, run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Color themes -> UI -> THEME_NAME`.
+Download **ZIP** file (from Releases page), run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Color themes -> UI -> THEME_NAME`.
 
 # Changelog
 
